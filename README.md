@@ -1,12 +1,10 @@
 ### Hi there, Rishikesh here
-
-
 - Masters student at Friedrich Alexander University, Erlangen Nürnberg
 - Interested in CFD, ML and HPC
 - Looking for Werkstudent (Working Student) position in Erlangen-Nürnberg-Fürth Area
 - Previous Work Experience as Web Developer
 
-<br>
+<br/>
 
 ### Social:
 
@@ -19,7 +17,9 @@
 [<img align="left" alt="Instagram" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" width="25"/>](https://www.instagram.com/riciadavinci/?hl=en)
 
 
-<br>
+<br/>
+<br/>
+<br/>
 
 ### Skills:
 
@@ -35,9 +35,8 @@
 
 <img alt="MATLAB" align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/matlab/matlab.png" width="40"/>
 
-
-
-<br>
+<br/>
+<br/>
 
 #### Web Stack:
 
@@ -57,8 +56,8 @@
 
 <img alt="Heroku" src="https://img.shields.io/badge/heroku%20-%23430098.svg?&style=for-the-badge&logo=heroku&logoColor=white"/>
 
-
-<br>
+<br/>
+<br/>
 
 #### ML Stack:
 
@@ -70,9 +69,8 @@
 
 <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" />
 
-
-<br>
-
+<br/>
+<br/>
 
 #### Other Tools:
 

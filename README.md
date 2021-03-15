@@ -77,8 +77,10 @@
 
 <img alt="Git" align="left" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
 
+<img alt="VSCode" style="color:orange" align="left" src="https://simpleicons.org/icons/visualstudiocode.svg" width="30"/>
+
 <img alt="Markdown" align="left" src="https://img.shields.io/badge/markdown-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white"/>
 
-<img alt="Markdown" align="left" src="https://simpleicons.org/icons/postman.svg" width="30"/>
+<span style="color:blue"><img alt="Postman" align="left" src="https://simpleicons.org/icons/postman.svg" width="30"/></span>
 
 

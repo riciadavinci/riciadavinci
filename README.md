@@ -1,15 +1,14 @@
 ### Hi there, Rishikesh here
 - Masters student at Friedrich Alexander University, Erlangen Nürnberg
-- Interested in CFD, ML and HPC
-- Looking for Werkstudent (Working Student) position in Erlangen-Nürnberg-Fürth Area
-- Previous Work Experience as Web Developer
-- Website (under construction 😅): <https://riciadavinci.github.io/>
+- Interested in software development for CFD, ML and HPC
+- Looking for full-time software developer positions (C++ and Python development) position in Germany
+- Previous Work Experience in Software Development and Test Automation (Siemens Digital Industries), and Web Development (Whizstorm Technologies Pvt. Ltd.)
 
 <br/>
 
 ### Social:
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rishikesh-nerurkar/) [![XING](https://img.shields.io/badge/xing-%23006567.svg?style=for-the-badge&logo=xing&logoColor=white)](https://www.xing.com/profile/RishikeshArunkumar_Nerurkar) [![Instagram](https://img.shields.io/badge/riciadavinci-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/riciadavinci/?hl=en) [![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/riciadavinci?hr_r=1)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rishikesh-nerurkar/) [![XING](https://img.shields.io/badge/xing-%23006567.svg?style=for-the-badge&logo=xing&logoColor=white)](https://www.xing.com/profile/RishikeshArunkumar_Nerurkar)
 
 <br/>
 

@@ -1,7 +1,7 @@
 ### Hi there, Rishikesh here
 - Masters student at Friedrich Alexander University, Erlangen Nürnberg
 - Interested in software development for CFD, ML and HPC
-- Looking for full-time software developer positions (C++ and Python development) position in Germany
+- Looking for full-time software developer positions (C++ and Python development) in Germany
 - Previous Work Experience in Software Development and Test Automation (Siemens Digital Industries), and Web Development (Whizstorm Technologies Pvt. Ltd.)
 
 <br/>

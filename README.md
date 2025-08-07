@@ -3,15 +3,15 @@ _Hello there, I'm Rishikesh!_
 - Seeking Full-time Software Developer Opportunities Across Germany
 - Specializing in _**C++ 11/14/17**_ and _**Python 3**_
 - **Work experience:**
-  - **Software Development and Test Automation** | Siemens Digital Industries, Erlangen &nbsp; _( May 2021 - April 2024 )_
-  - **Web Development** | Whizstorm Technologies Pvt. Ltd., Mumbai &nbsp; _( July 2019 - July 2020 )_
+  - **Software Development and Test Automation** | Siemens Digital Industries, Erlangen _( May 2021 - April 2024 )_
+  - **Web Development** | Whizstorm Technologies Pvt. Ltd., Mumbai _( July 2019 - July 2020 )_
 - **Education:**
   - **MSc. Computational Engineering** | Friedrich Alexander University _(Oct. 2020 - Oct. 2024)_
   - **B.E. Mechanical Engineering** | Mumbai University _(June 2014 - June 2018)_
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rishikesh-nerurkar)  [![XING](https://img.shields.io/badge/xing-%23006567.svg?logo=xing&logoColor=white)](https://www.xing.com/profile/RishikeshArunkumar_Nerurkar)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rishikesh-nerurkar) [![XING](https://img.shields.io/badge/xing-%23006567.svg?logo=xing&logoColor=white)](https://www.xing.com/profile/RishikeshArunkumar_Nerurkar)
 
 ## 💻 Tech Stack:
 

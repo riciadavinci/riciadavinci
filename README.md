@@ -22,8 +22,11 @@ _Hello there, I'm Rishikesh!_
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=vsc&logoColor=white) ![Visual Studio](https://custom-icon-badges.demolab.com/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)             
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=riciadavinci&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=riciadavinci&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=riciadavinci&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
+![](https://github-readme-stats.vercel.app/api?username=riciadavinci&theme=dark&hide_border=false&include_all_commits=true&count_private=true) ![](https://nirzak-streak-stats.vercel.app/?user=riciadavinci&theme=dark&hide_border=false) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=riciadavinci&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)</br>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+## Projects:
+![GroceryExpenseTracker](https://github-readme-stats.vercel.app/api/pin?username=riciadavinci\&repo=GroceryExpenseTracker\&title_color=fff\&icon_color=f9f9f9\&text_color=9f9f9f\&bg_color=151515)
+![SoftwareProjectManager](https://github-readme-stats.vercel.app/api/pin?username=riciadavinci\&repo=SoftwareProjectManager\&title_color=fff\&icon_color=f9f9f9\&text_color=9f9f9f\&bg_color=151515)
+![LatticeBoltzmannSolver2D](https://github-readme-stats.vercel.app/api/pin?username=riciadavinci\&repo=LatticeBoltzmannSolver2D\&title_color=fff\&icon_color=f9f9f9\&text_color=9f9f9f\&bg_color=151515)
+![PatientManagementSystem](https://github-readme-stats.vercel.app/api/pin?username=riciadavinci\&repo=PatientManagementSystem\&title_color=fff\&icon_color=f9f9f9\&text_color=9f9f9f\&bg_color=151515)

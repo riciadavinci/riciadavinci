@@ -26,7 +26,7 @@ _Hello there, I'm Rishikesh!_
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Projects:
-![GroceryExpenseTracker](https://github-readme-stats.vercel.app/api/pin?username=riciadavinci\&repo=GroceryExpenseTracker\&title_color=fff\&icon_color=f9f9f9\&text_color=9f9f9f\&bg_color=151515)
-![SoftwareProjectManager](https://github-readme-stats.vercel.app/api/pin?username=riciadavinci\&repo=SoftwareProjectManager\&title_color=fff\&icon_color=f9f9f9\&text_color=9f9f9f\&bg_color=151515)
-![LatticeBoltzmannSolver2D](https://github-readme-stats.vercel.app/api/pin?username=riciadavinci\&repo=LatticeBoltzmannSolver2D\&title_color=fff\&icon_color=f9f9f9\&text_color=9f9f9f\&bg_color=151515)
-![PatientManagementSystem](https://github-readme-stats.vercel.app/api/pin?username=riciadavinci\&repo=PatientManagementSystem\&title_color=fff\&icon_color=f9f9f9\&text_color=9f9f9f\&bg_color=151515)
+[![GroceryExpenseTracker](https://github-readme-stats.vercel.app/api/pin?username=riciadavinci&repo=GroceryExpenseTracker&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/riciadavinci/GroceryExpenseTracker)
+[![SoftwareProjectManager](https://github-readme-stats.vercel.app/api/pin?username=riciadavinci&repo=SoftwareProjectManager&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/riciadavinci/SoftwareProjectManager)
+[![LatticeBoltzmannSolver2D](https://github-readme-stats.vercel.app/api/pin?username=riciadavinci&repo=LatticeBoltzmannSolver2D&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/riciadavinci/LatticeBoltzmannSolver2D)
+[![PatientManagementSystem](https://github-readme-stats.vercel.app/api/pin?username=riciadavinci&repo=PatientManagementSystem&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/riciadavinci/PatientManagementSystem)
